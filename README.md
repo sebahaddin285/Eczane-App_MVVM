@@ -5,7 +5,6 @@
 - [Kotlin](https://kotlinlang.org/)
 - [Room database](https://developer.android.com/training/data-storage/room)
 - Data binding
-- Navigation-Component
 - Api - Retrofit2
 - MVVM
 - Coroutines
